@@ -1,4 +1,5 @@
 <?php
+
 /**
  *  desencripta un número ingresado por el usuario
  * ENTERO nro, cifra, cociente, d1, d2, d3, d4

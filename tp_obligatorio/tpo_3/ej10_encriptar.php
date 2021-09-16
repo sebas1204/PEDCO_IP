@@ -1,4 +1,5 @@
 <?php
+
 /**
  *  encripta un número ingresado por el usuario 
  * Entero nro, cifra, d1, d2, d3, d4
